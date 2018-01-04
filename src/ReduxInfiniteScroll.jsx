@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types'
 import ReactDOM from 'react-dom';
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
+import { CSSTransitionGroup } from 'react-transition-group'
 
 //import ImmutablePropTypes from 'react-immutable-proptypes';
 
